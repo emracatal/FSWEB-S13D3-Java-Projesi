@@ -6,6 +6,7 @@ public class Main {
         System.out.println("LastName: " + person.getLastName());
 
         System.out.println("Age: " + person.getAge());
+        System.out.println("*******************");
 
         Wall wall = new Wall(5,4);
 

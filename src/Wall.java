@@ -25,7 +25,7 @@ public class Wall {
         }
     }
 
-    //setter metodları void
+    //setter metodlarıı void
     public void setHeight(double height) {
         if (height < 0) {
             this.height = 0;

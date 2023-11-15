@@ -21,7 +21,7 @@ public class Person {
     }
 
     public Person(String firstName, String city, boolean hasPet) {
-        this(firstName, city);//constructor chaining
+        this(firstName, city);//constructor chaining b
         this.hasPet = hasPet;
     }
 
